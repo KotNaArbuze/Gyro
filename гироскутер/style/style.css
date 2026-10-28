@@ -525,7 +525,7 @@ body {
     font-family: inherit;
 }
 
-/* ---- Полезная информация ---- */
+/*полезная информация*/
 .info-section {
     height: 650px;
 }
@@ -572,7 +572,7 @@ body {
     color: black;
 }
 
-/* ---- Подвал ---- */
+/*подвал*/
 .footer-section {
     height: 707px;
 }
@@ -605,7 +605,7 @@ body {
     gap: 70px;
 }
 
-/* Все три колонки футера используют один класс — одинаковое оформление */
+/*колонки подвала*/
 .footer-column {
     width: 250px;
     display: flex;
